@@ -1,3 +1,2 @@
-server:
-  port:
-    1111
+config:
+  info : zhangjie's config info
